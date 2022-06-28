@@ -1,0 +1,7 @@
+names:
+- barrel
+- cones
+- pot hole
+nc: 3
+train: /content/datasets/Cones-2/train/images
+val: /content/datasets/Cones-2/valid/images
